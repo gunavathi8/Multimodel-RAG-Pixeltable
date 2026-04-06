@@ -41,11 +41,7 @@ The runtime is split into:
 
 Take a quick look at the working app demo:
 
-<video src="./Multimodel-RAG-Pixeltable.mp4" controls width="100%"></video>
-
-If the video does not render directly on your GitHub view, use this link:
-
-[Watch the demo video](./Multimodel-RAG-Pixeltable.mp4)
+[Watch the demo on YouTube](https://youtu.be/DZQZVo5HToQ)
 
 ## How I Approached The Problem
 
