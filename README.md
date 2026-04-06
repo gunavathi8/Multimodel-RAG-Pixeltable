@@ -39,7 +39,7 @@ The runtime is split into:
 
 ## Demo
 
-Take a quick look at the working app demo:
+Take a quick look at the working app demo:-
 
 [Watch the demo on YouTube](https://youtu.be/DZQZVo5HToQ)
 
