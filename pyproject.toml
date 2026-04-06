@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multimodel-rag"
+version = "0.1.0"
+description = "Multimodal PDF RAG system built with Pixeltable."
+readme = "README.md"
+requires-python = ">3.10,<3.14"
+dependencies = [
+    "en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl",
+    "fastapi>=0.115.0",
+    "httpx>=0.28.0",
+    "ipykernel>=7.2.0",
+    "openai>=1.75.0",
+    "pixeltable",
+    "python-multipart>=0.0.20",
+    "python-dotenv>=1.1.0",
+    "sentence-transformers>=5.3.0",
+    "spacy>=3.8.14",
+    "streamlit>=1.44.0",
+    "tiktoken>=0.12.0",
+    "uvicorn>=0.34.0",
+]
